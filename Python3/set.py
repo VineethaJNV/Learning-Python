@@ -4,3 +4,7 @@ print(set_sam)
 
 try_set = {1}
 print(type(try_set))
+
+print(len(set_sam))
+
+set_sam.add(4)
