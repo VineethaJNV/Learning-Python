@@ -1,0 +1,2 @@
+old text which is already presentchecking if the data can be appended into the file
+checking if the data can be appended into the filechecking the r+ modechecking the r+ mode
