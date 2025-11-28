@@ -12,3 +12,5 @@ print(word1+" "+word2)
 
 for idx in range(len(word)):
     print(idx,word[idx])
+
+    '''Strings are immutable in Python'''

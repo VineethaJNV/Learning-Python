@@ -7,5 +7,5 @@ print(len(tuples))
 for t in tuples:
     print(t)
 
-sample_tuple = (1)
+sample_tuple = (1) #won't be considered as tuple
 print(type(sample_tuple))
