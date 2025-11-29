@@ -1,0 +1,9 @@
+{
+    "name":"vineetha",
+    "isProfessional":true,
+    "address" :{ 
+        "city" : "Bangalore",
+        "company" : "Simeens Healthcare"
+    },
+    "skills":["python","java","c++","c#","DICOM","Imageprocessing"]
+}

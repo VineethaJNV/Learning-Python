@@ -1,0 +1,6 @@
+Running okay
+no error
+exception occured
+Memory consumption is heavy
+User input failes as value error occurred
+server failureProgram is running successfully!
