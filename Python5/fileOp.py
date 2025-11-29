@@ -19,7 +19,7 @@ print(rl)
 f.close()
 
 w = open("sample.txt", "w")
-w.write("writing for demo")
+w.write("writing for demo") #overwrites the file
 
 
 
