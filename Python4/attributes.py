@@ -18,5 +18,6 @@ print(Student.college)#class attribute
 
 
 print(stu1.PI)
-#Instance attributes have higher priority, we can use instance to access class attributes as well
+#Instance attributes have higher priority, as it will have unique values 
+#we can use instance to access class attributes as well
 
